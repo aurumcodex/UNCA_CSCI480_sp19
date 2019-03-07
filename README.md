@@ -2,3 +2,5 @@
 CSCI 480/481 - Spring 2019 - Fall 2019
 
 This is the example repository for the GIT demo for the CSCI 480 class.
+
+###### stuck a fork in this README; it was done.
